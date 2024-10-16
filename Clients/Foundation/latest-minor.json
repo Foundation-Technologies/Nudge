@@ -1,0 +1,39 @@
+{
+    "optionalFeatures": {
+        "honorFocusModes": true,
+        "aggressiveUserExperience": false,
+        "aggressiveUserFullScreenExperience": false
+    },
+    "osVersionRequirements": [
+        {
+            "requiredMinimumOSVersion": "latest-minor",
+            "activelyExploitedCVEsMinorUpdateSLA": 10,
+            "nonActivelyExploitedCVEsMinorUpdateSLA": 17,
+            "standardMinorUpdateSLA": 17
+        }
+    ],
+    "userExperience": {
+        "nudgeMinorUpdateEventLaunchDelay": 3,
+        "allowLaterDeferralButton": false
+    },
+    "userInterface": {
+        "iconDarkPath": "https://example.com/images/logoDark.png",
+        "iconLightPath": "https://example.com/images/logoLight.png",
+        "updateElements": [
+            {
+                "_language": "en",
+                "actionButtonText": "Update Device",
+                "informationButtonText": "More Info",
+                "mainContentHeader": "Your device will restart during this update",
+                "mainContentNote": "Important Notes",
+                "mainContentSubHeader": "Updates can take around 30-60 minutes to complete",
+                "mainContentText": "To begin click on the Update Device button and follow the prompts in the Software Update window that appears.\n\nBefore beginning the update ensure all important files have been saved as the computer will need to restart.",
+                "mainHeader": "macOS update required",
+                "primaryQuitButtonText": "Later",
+                "secondaryQuitButtonText": "I understand",
+                "subHeader": "",
+                "customDeferralDropdownText": "Remind me later"
+            }
+        ]
+    }
+}
