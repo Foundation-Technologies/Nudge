@@ -17,8 +17,8 @@
         "allowLaterDeferralButton": false
     },
     "userInterface": {
-        "iconDarkPath": "https://raw.githubusercontent.com/Foundation-Technologies/Nudge/a436a54d92e428b633e201d6559589692446d6a5/Clients/Foundation/logo.png?token=GHSAT0AAAAAACVGVYKMQIQHCITZIZPZSRBEZYP4H6Q",
-        "iconLightPath": "https://raw.githubusercontent.com/Foundation-Technologies/Nudge/a436a54d92e428b633e201d6559589692446d6a5/Clients/Foundation/logo.png?token=GHSAT0AAAAAACVGVYKMQIQHCITZIZPZSRBEZYP4H6Q",
+        "iconDarkPath": "https://raw.githubusercontent.com/Foundation-Technologies/Nudge/e8e062d0649600c418660af7a5ae8e1954776cf0/Clients/Foundation/logo.png",
+        "iconLightPath": "https://raw.githubusercontent.com/Foundation-Technologies/Nudge/e8e062d0649600c418660af7a5ae8e1954776cf0/Clients/Foundation/logo.png",
         "updateElements": [
             {
                 "_language": "en",
