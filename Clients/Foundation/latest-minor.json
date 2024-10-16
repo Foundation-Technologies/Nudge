@@ -17,8 +17,8 @@
         "allowLaterDeferralButton": false
     },
     "userInterface": {
-        "iconDarkPath": "https://example.com/images/logoDark.png",
-        "iconLightPath": "https://example.com/images/logoLight.png",
+        "iconDarkPath": "https://raw.githubusercontent.com/Foundation-Technologies/Nudge/a436a54d92e428b633e201d6559589692446d6a5/Clients/Foundation/logo.png?token=GHSAT0AAAAAACVGVYKMQIQHCITZIZPZSRBEZYP4H6Q",
+        "iconLightPath": "https://raw.githubusercontent.com/Foundation-Technologies/Nudge/a436a54d92e428b633e201d6559589692446d6a5/Clients/Foundation/logo.png?token=GHSAT0AAAAAACVGVYKMQIQHCITZIZPZSRBEZYP4H6Q",
         "updateElements": [
             {
                 "_language": "en",
