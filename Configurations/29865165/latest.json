@@ -17,6 +17,7 @@
     ],
     "userExperience": {
         "nudgeMinorUpdateEventLaunchDelay": 3,
+        "nudgeMajorUpgradeEventLaunchDelay": 3,
         "allowLaterDeferralButton": false,
         "randomDelay": false
     },
