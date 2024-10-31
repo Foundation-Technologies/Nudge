@@ -1,5 +1,6 @@
 {
     "optionalFeatures": {
+        "attemptToCheckForSupportedDevice": false,
         "honorFocusModes": true,
         "aggressiveUserExperience": false,
         "aggressiveUserFullScreenExperience": false
