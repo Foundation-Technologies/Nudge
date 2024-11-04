@@ -3,6 +3,7 @@
         "honorFocusModes": true,
         "aggressiveUserExperience": false,
         "aggressiveUserFullScreenExperience": false,
+        "attemptToCheckForSupportedDevice": false,
         "attemptToCheckForSupportedDevice": false
     },
     "osVersionRequirements": [
