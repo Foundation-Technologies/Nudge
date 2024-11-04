@@ -2,7 +2,8 @@
     "optionalFeatures": {
         "honorFocusModes": true,
         "aggressiveUserExperience": false,
-        "aggressiveUserFullScreenExperience": false
+        "aggressiveUserFullScreenExperience": false,
+        "attemptToCheckForSupportedDevice": false
     },
     "osVersionRequirements": [
         {
