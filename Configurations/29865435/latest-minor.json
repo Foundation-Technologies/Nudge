@@ -13,7 +13,7 @@
         }
     ],
     "userExperience": {
-        "nudgeMinorUpdateEventLaunchDelay": 3,
+        "nudgeMinorUpdateEventLaunchDelay": 1,
         "allowLaterDeferralButton": false,
         "randomDelay": false
     },
