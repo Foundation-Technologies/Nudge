@@ -3,6 +3,11 @@
         "honorFocusModes": true,
         "aggressiveUserExperience": false,
         "aggressiveUserFullScreenExperience": false
+        "acceptableCameraUsage": true,
+        "acceptableScreenSharingUsage": true,
+        "acceptableAssertionUsage": true
+
+        
     },
     "osVersionRequirements": [
         {
